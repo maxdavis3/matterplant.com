@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://matterplant.com/sitemap.xml
